@@ -2,7 +2,7 @@
 # Asteroids
 for C# is a preparation project for a Cypress PSOC system with OLED display. It was ported from a Java Source of an unknown author. Lots of Java high level functionality has to be rewritten in simple code, accounting the target standard C platform of the PSOC.
 
-|####**Key**	| Action	|
+|Key		| Action	|
 |---------------|---------------|
 | Left		| turn left	|
 | Right 	| turn right	|
