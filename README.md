@@ -22,4 +22,5 @@ for C# is a preparation project for a Cypress PSOC system with OLED display, bui
 - no sound
 
 [http://qland.de/electronic/gbrevival/index.html](http://qland.de/electronic/gbrevival/index.html)  
+[http://www.youtube.com/watch?v=k5Dv2cMHfO8](http://www.youtube.com/watch?v=k5Dv2cMHfO8)  
 [qrt@qland.de](mailto:qrt@qland.de)
