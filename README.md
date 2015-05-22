@@ -1,6 +1,6 @@
 
 # Asteroids
-for C# is a preparation project for a Cypress PSOC system with OLED display. It was ported from a Java Source of an unknown author. Lots of Java high level functionality has to be rewritten in simple code, accounting the target standard C platform of the PSOC.
+for C# is a preparation project for a Cypress PSOC system with OLED display, built in a Gameboy housing. It was ported from a Java Source of an unknown author. Lots of Java high level functionality has to be rewritten in simple code, accounting the target standard C PSOC platform.
 
 ![Screenshot](https://github.com/qrti/Asteroids/blob/master/Screenshot.png)
 
@@ -21,4 +21,5 @@ for C# is a preparation project for a Cypress PSOC system with OLED display. It 
 - graphic flickers on most devices
 - no sound
 
+[http://qland.de/electronic/gbrevival/index.html](http://qland.de/electronic/gbrevival/index.html)  
 [qrt@qland.de](mailto:qrt@qland.de)
