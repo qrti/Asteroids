@@ -16,7 +16,7 @@ for C# is a preparation project for a Cypress PSOC system with OLED display, bui
 | P		| toggle pause	|
 | D		| toggle graphics details
 
-####**Limits**
+#### **Limits**
 - resizing the window restarts the game with adapted playfield
 - graphic flickers on most devices
 - no sound
